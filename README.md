@@ -1,7 +1,8 @@
 # QuizMaster - Quiz App Dashboard
 
 A modern, minimal, and attractive quiz app dashboard built with Next.js, Tailwind CSS, shadcn/ui, and Zustand for state management.
-[Demo]([https://www.example.com](https://quiz-app-frontend-nine-kappa.vercel.app))
+
+[Demo](https://quiz-app-frontend-nine-kappa.vercel.app)
 
 
 ## Features
